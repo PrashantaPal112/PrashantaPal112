@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am <b>Prashanta Pal</b> , Fresher , Currently I am learning <b>Deep Learning</b> Concepts,<br>ANN, CNN, NLP <br>Already completed Basic Machine learning algorithm <br> <b>Algorithms:</b> Linear Regression, Logistic Regression, SVM , Decision Tree, Random Forest, Boosting Algorithms DBSCAN , AdaBoost , XGBoost , Stacking Regressor, Voting Regressor<br><b>Languages :</b> C, C++ , JavaScript, C#, Python<br> Also I have a knowledge in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, <br><b>Framework :</b> ExpressJs, NodeJs, React, <br><b>Database :</b> MongoDD, MySQL and learning more tools
+I am <b>Prashanta Pal</b> , Fresher , Currently I am learning <b>Deep Learning</b> Concepts,<br>ANN, CNN, NLP , LLM, Transfer Learning <br>Already completed Basic Machine learning algorithm <br> <b>Algorithms:</b> Linear Regression, Logistic Regression, SVM , Decision Tree, Random Forest, Boosting Algorithms DBSCAN , AdaBoost , XGBoost , Stacking Regressor, Voting Regressor<br><b>Languages :</b> C, C++ , JavaScript, C#, Python<br> Also I have a knowledge in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, <br><b>Framework :</b> ExpressJs, NodeJs, React, <br><b>Database :</b> MongoDD, MySQL and learning more tools
 
 
 ## 🌐 Socials:
