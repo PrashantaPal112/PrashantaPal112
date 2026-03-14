@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Prashanta Pal , Fresher , Currently I am learning Deep Learning Concepts,<br>ANN <br>Already completed Basic Machine learning algorithm <br>Languages : C, C++ , JavaScript, C#, Python<br> Also I have a knowledge in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, <br>Framework : ExpressJs, NodeJs, React, <br>Database : MongoDD, MySQL and learning more tools
+I am Prashanta Pal , Fresher , Currently I am learning Deep Learning Concepts,<br>ANN, CNN, NLP <br>Already completed Basic Machine learning algorithm <br> Algorithms: Linear Regression, Logistic Regression, SVM < Decision Tree, Random Forest, Boosting Algorithms DBSCAN < AdaBoost , XGBoost , Stacking Regressor, Voting Regressor<br>Languages : C, C++ , JavaScript, C#, Python<br> Also I have a knowledge in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, <br>Framework : ExpressJs, NodeJs, React, <br>Database : MongoDD, MySQL and learning more tools
 
 
 ## 🌐 Socials:
